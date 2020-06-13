@@ -6,20 +6,4 @@ To make a backup of instagram chat is very difficult task for people. Some use s
 ## Steps to use
 * First Extract the .zip file that you have download from instagram
 * Copy all the file of these repository and paste it into your extracted folder
-* Open index.html file in your mozilla firefox browser and enjoy :sunglasses:.
-
-Note : This will work only in firefox browser because it supports Cross origin requests.
-
-Youtube Video Link : http://gestyy.com/w8FVQW
-
-UPDATED]
-Instagram Backup data viewer Android app is also available now
-Download Link - http://gestyy.com/w8EYw2
-
-Always happy to help you :smiley:.
-
-Thanks to [Momciloo!](https://codepen.io/Momciloo) for awesome chatbox UI.
-
-Do you have any queries or want to add some more functionality So feel free to contact me -
-
-Facebook : https://www.facebook.com/sumit.patidar.77 Gmail : patidar.sumit1110@gmail.com
+* Open index.html file in your browser and enjoy :sunglasses:.
